@@ -1,0 +1,1 @@
+Hello. This is my foray into in depth web dev. Though these are concepts that I know very well, I am trying to start from scratch and make sure I haven't misssed anything. I hope to get a clear idea of how js works by the time I am done with The Odin Project.
